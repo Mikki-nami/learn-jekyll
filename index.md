@@ -10,13 +10,9 @@ This are the contents of the Jekyll front page.
 
 Stranka ve výstavbe
 
-<body>
-    <div class="gallery">
-          <a target="_blank" href=stranky_ve _vystavbe.jpg">
+<p>
                 <img src="stranky_ve _vystavbe.jpg" alt="stranky_ve _vystavbe" width="500" height="300">
-           </a>
-        </div>
-      </body>
+          </p>
 
 
 See the posts:
