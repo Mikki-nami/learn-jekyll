@@ -1,6 +1,6 @@
 .wrapper {
 	margin: 50px auto;
-	max-width: 800px;
+	max-width: 200px;
 	padding: 20px;
 	background: url('http://www.myfreetextures.com/wp-content/uploads/2011/06/.jpg');
 }
@@ -37,4 +37,5 @@ nav ul {
 	list-style-type: none;
 	padding: 50;
 	font-family: "Comic Sans MS";
+	color: #006400;
 }
