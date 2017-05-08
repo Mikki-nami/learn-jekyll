@@ -2,7 +2,6 @@
 	margin: 50px auto;
 	max-width: 800px;
 	padding: 20px;
-	background: url('http://www.publicdomainpictures.net/view-image.php?image=166460&picture=natural-torn-papir-pergamen')
 }
 
 .header {
@@ -18,7 +17,8 @@
 	border-left: solid;
 	padding-left: 30px;
 	font-family: "Comic Sans MS";
-	color: #0000FF; 
+	color: #0000FF;
+	background: url('http://www.publicdomainpictures.net/view-image.php?image=166460&picture=natural-torn-papir-pergamen') 
 }
 
 nav {
