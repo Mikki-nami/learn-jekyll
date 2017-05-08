@@ -1,8 +1,8 @@
 .wrapper {
 	margin: 50px auto;
-	max-width: 200px;
+	max-width: 800px;
 	padding: 20px;
-	background: url('http://www.myfreetextures.com/wp-content/uploads/2011/06/.jpg');
+	background: url('http://www.texturevault.net/page_from_old_grunge_notebook_sjpg23753.jpg');
 }
 
 .header {
@@ -10,7 +10,6 @@
 	border-bottom: solid;
 	font-family: "Comic Sans MS";
 	color: #006400;
-	background: url('http://www.myfreetextures.com/wp-content/uploads/2011/06/.jpg');
 }
 
 .content {
