@@ -38,6 +38,7 @@ nav {
 }
 
 nav ul {
-	list-style-type: none;
-	padding: 50;
+	list-style-type: mongolian;
+	padding: 150;
+
 }
